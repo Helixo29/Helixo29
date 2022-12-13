@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on myportofolioì<br>🌱 I’m currently learning javascript and Python<br>💬 Ask me about web-developing, JS, HTML & CSS<br>
+🔭 I’m currently working on myportofolio<br>🌱 I’m currently learning C<br>💬 Ask me about web-developing, JS, HTML & CSS<br>
 
 
 
